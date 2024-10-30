@@ -1,0 +1,30 @@
+{
+   "products": [
+      {
+         "product_id": 2,
+         "product_url": "iPhone 11",
+         "product_name": "iPhone 11",
+         "description_id": 2,
+         "product_brief_description": "Pro cameras. Pro display. Pro performance.",
+         "product_description": "A transformative iPhone.... ",
+         "product_img": "https://www.apple.com/v/iphone-se/g/images/overview/hero/endframe_zoomed__eob69pygkfma_large.jpg",
+         "product_link": "https://www.apple.com/v/iphone-se/g/images/overview/hero/endframe_zoomed__eob69pygkfma_large.jpg",
+         "price_id": 1,
+         "starting_price": "449",
+         "price_range": "From $9.54/mo. or $229 with trade-in*"
+      },
+      {
+         "product_id": 3,
+         "product_url": "iPhone 11 Pro",
+         "product_name": "iPhone 11 Pro",
+         "description_id": 3,
+         "product_brief_description": "Lots to Love. Less to spend.",
+         "product_description": "You can either pay for new iPhone in full...",
+         "product_img": "/iphone 11 Pro",
+         "product_link": "https://www.apple.com/shop/buy-iphone/iphone-11-pro",
+         "price_id": 2,
+         "starting_price": "499",
+         "price_range": "From $18.54/mo. or $449 with trade-in*"
+      }
+   ]
+}
